@@ -1,0 +1,10 @@
+#info {
+	position: absolute;
+	/* margin: auto; */
+    top: 10px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+    background-color: aqua;
+}
